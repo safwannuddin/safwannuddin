@@ -6,25 +6,7 @@
   <div style="background: linear-gradient(90deg, #00F5A0, #00D4FF, #00A2FF, #FF00E6, #FF0080); height: 4px; width: 80%; margin: 20px auto; border-radius: 2px;"></div>
 </div>
 
-  <!-- Animated Social Badges -->
-  <div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0;">
-    <a href="https://www.linkedin.com/in/mohd-safwan-uddin-299602257/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" alt="LinkedIn"/>
-    </a>
-    <a href="https://github.com/safwannuddin" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=181717" alt="GitHub"/>
-    </a>
-    <a href="mailto:safwanuddin405@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" alt="Email"/>
-    </a>
-    <a href="https://x.com/SafwanUddi19218" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2" alt="Twitter"/>
-    </a>
-  </div>
-  
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=safwannuddin&style=flat-square&color=00D4FF&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+ 
 
 <!-- About Me Section -->
 ## 🚀 About Me
