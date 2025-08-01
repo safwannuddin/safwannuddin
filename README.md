@@ -13,7 +13,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MOHD%20SAFWAN%20UDDIN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
   
   <!-- Epic Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+FULL+STACK+DEVELOPER;🤖+AI%2FML+ENGINEER;⚡+DATA+SCIENTIST;🔥+INNOVATION+ARCHITECT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🚀+FULL+STACK+DEVELOPER;🤖+AI%2FML+ENGINEER;⚡+DATA+SCIENTIST;🔥+INNOVATION+ARCHITECT" alt="Typing SVG" />
   
   <!-- Animated Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -48,31 +48,48 @@
 
 ```javascript
 class Developer {
-  constructor() {
-    this.name = "Mohd Safwan Uddin";
-    this.role = "Full Stack Developer & AI Engineer";
-    this.location = "India 🇮🇳";
-    this.education = "B.Tech Computer Science";
-    this.workingOn = "Revolutionary AI Applications";
-    this.currentlyLearning = "Advanced Machine Learning & Cloud Architecture";
-    this.collaborateOn = "Open Source Projects & AI Innovations";
-    this.askMeAbout = ["React", "Python", "AI/ML", "Data Science", "Cloud Computing"];
-    this.funFact = "I enjoy solving puzzles and learning new algorithms!";
-    this.motto = "Code with passion, innovate with purpose! 🚀";
-  }
-  
-  getCurrentStatus() {
-    return {
-      coding: "24/7",
-      learning: "Always",
-      building: "The Future",
-      mood: "Optimistic & Ready to Code! 💪"
-    };
-  }
+    constructor() {
+        this.name = "Mohd Safwan Uddin";
+        this.role = "Full Stack Developer & AI Engineer";
+        this.location = "India 🇮🇳";
+        this.education = "B.Tech Computer Science";
+        this.workingOn = "Revolutionary AI Applications";
+        this.currentlyLearning = "Advanced Machine Learning & Cloud Architecture";
+        this.collaborateOn = "Open Source Projects & AI Innovations";
+        this.askMeAbout = [
+            "React & Next.js", 
+            "Python & FastAPI", 
+            "AI/ML & Data Science", 
+            "Cloud Computing"
+        ];
+        this.funFact = "I enjoy solving puzzles and learning new algorithms!";
+        this.motto = "Code with passion, innovate with purpose! 🚀";
+    }
+    
+    getCurrentStatus() {
+        return {
+            coding: "24/7 ⚡",
+            learning: "Always 📚",
+            building: "The Future 🚀",
+            mood: "Optimistic & Ready to Code! 💪",
+            coffee: "Essential fuel ☕",
+            nextGoal: "Building AI that changes lives 🤖"
+        };
+    }
+    
+    getSkillLevel() {
+        return {
+            frontend: "Expert 🎯",
+            backend: "Advanced 🔥",
+            aiml: "Proficient 🧠",
+            problemSolving: "Ninja Level 🥷"
+        };
+    }
 }
 
 const safwan = new Developer();
-console.log(safwan.getCurrentStatus());
+console.log("Current Status:", safwan.getCurrentStatus());
+console.log("Skill Levels:", safwan.getSkillLevel());
 ```
 
 <!-- Animated Skills Section -->
@@ -86,51 +103,75 @@ console.log(safwan.getCurrentStatus());
   </h2>
 </div>
 
-<!-- Programming Languages with Animations -->
+<!-- Tech Stack with Cool Styling -->
 <div align="center">
+  
+  <!-- Programming Languages -->
   <h3>
-    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30">
-    Programming Languages
-    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30">
+    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=300&lines=Programming+Languages" alt="Programming Languages" />
+    <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="35">
   </h3>
   
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c&theme=dark" />
-  <br><br>
+  <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=3178C6" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&labelColor=ED8B00" alt="Java" />
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C" alt="C" />
+  </div>
   
+  <!-- Most Used Languages Chart -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safwannuddin&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&icon_color=F8D866" height="200"/>
-</div>
-
-<!-- Frontend Technologies -->
-<div align="center">
+  
+  <!-- Frontend Development -->
   <h3>
-    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30">
-    Frontend Development
-    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30">
+    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="35">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=61DAFB&center=true&vCenter=true&width=280&lines=Frontend+Development" alt="Frontend" />
+    <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="35">
   </h3>
   
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
-</div>
-
-<!-- Backend & Database -->
-<div align="center">
+  <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6" alt="CSS3" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=000000" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC" alt="Tailwind CSS" />
+  </div>
+  
+  <!-- Backend & Databases -->
   <h3>
-    <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30">
-    Backend & Databases
-    <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30">
+    <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="35">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=4CAF50&center=true&vCenter=true&width=320&lines=Backend+%26+Databases" alt="Backend" />
+    <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="35">
   </h3>
   
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgresql,supabase&theme=dark" />
-</div>
-
-<!-- AI/ML & Tools -->
-<div align="center">
+  <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=339933" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" alt="Express" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=009688" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white&labelColor=3ECF8E" alt="Supabase" />
+    <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=white&labelColor=00E599" alt="Neon" />
+  </div>
+  
+  <!-- AI/ML & Development Tools -->
   <h3>
-    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30">
-    AI/ML & Development Tools
-    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30">
+    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="35">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=FF6B35&center=true&vCenter=true&width=380&lines=AI%2FML+%26+Development+Tools" alt="AI/ML Tools" />
+    <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="35">
   </h3>
   
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,jupyter,docker,git,github,vscode&theme=dark" />
+  <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=F37626" alt="Jupyter" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED" alt="Docker" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC" alt="VS Code" />
+  </div>
+  
 </div>
 
 <!-- Epic GitHub Stats Section -->
@@ -175,34 +216,58 @@ console.log(safwan.getCurrentStatus());
 class CodingJourney:
     def __init__(self):
         self.started = "2020"
-        self.current_level = "Advanced"
+        self.current_level = "Advanced Developer"
+        self.years_of_experience = 4
         self.focus_areas = [
-            "🤖 Artificial Intelligence",
-            "🌐 Full Stack Development", 
-            "📊 Data Science",
-            "☁️ Cloud Computing",
-            "🔧 DevOps & Automation"
+            "🤖 Artificial Intelligence & Machine Learning",
+            "🌐 Full Stack Web Development", 
+            "📊 Data Science & Analytics",
+            "☁️ Cloud Computing & DevOps",
+            "🔧 Automation & System Design"
         ]
         self.daily_routine = {
-            "morning": "☕ Coffee + Code Review",
-            "afternoon": "💻 Development & Problem Solving",
-            "evening": "📚 Learning New Technologies",
-            "night": "🚀 Personal Projects & Innovation"
+            "06:00": "☕ Coffee + Planning the day",
+            "09:00": "💻 Core Development Work",
+            "14:00": "� Codeo Review & Problem Solving",
+            "18:00": "📚 Learning New Technologies",
+            "21:00": "🚀 Personal Projects & Innovation",
+            "23:00": "📝 Documentation & Reflection"
         }
+        self.tech_philosophy = "Clean code, scalable solutions, continuous learning"
     
     def get_motivation(self):
         return "Turning caffeine into code, one commit at a time! ⚡"
+    
+    def get_current_projects(self):
+        return [
+            "🔥 AI-powered web applications",
+            "📱 Full-stack React/Next.js projects", 
+            "🤖 Machine learning model deployment",
+            "🌐 Open source contributions"
+        ]
     
     def future_goals(self):
         return [
             "🎯 Build AI solutions that change lives",
             "🌟 Contribute to major open source projects",
             "🚀 Launch innovative tech products",
-            "👥 Mentor the next generation of developers"
+            "👥 Mentor the next generation of developers",
+            "🏆 Become a recognized tech leader"
         ]
+    
+    def get_stats(self):
+        return {
+            "commits_this_year": "500+",
+            "projects_completed": "25+",
+            "technologies_mastered": "15+",
+            "coffee_consumed": "Infinite ☕"
+        }
 
+# Initialize the journey
 journey = CodingJourney()
-print(f"Motivation: {journey.get_motivation()}")
+print(f"🚀 Motivation: {journey.get_motivation()}")
+print(f"📊 Current Stats: {journey.get_stats()}")
+print(f"🎯 Future Goals: {journey.future_goals()}")
 ```
 
 <!-- Connect Section with Animations -->
