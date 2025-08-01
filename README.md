@@ -9,11 +9,13 @@
 
 <div align="center">
   
-  <!-- Matrix Rain Effect Header -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MOHD%20SAFWAN%20UDDIN&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <!-- Epic Header -->
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=45&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=80&lines=MOHD+SAFWAN+UDDIN" alt="Name" />
+  </h1>
   
-  <!-- Epic Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🚀+FULL+STACK+DEVELOPER;🤖+AI%2FML+ENGINEER;⚡+DATA+SCIENTIST;🔥+INNOVATION+ARCHITECT" alt="Typing SVG" />
+  <!-- Role Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=900&height=100&lines=🚀+FULL+STACK+DEVELOPER;🤖+AI%2FML+ENGINEER;⚡+DATA+SCIENTIST;🔥+INNOVATION+ARCHITECT" alt="Roles" />
   
   <!-- Animated Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -329,8 +331,8 @@ print(f"🎯 Future Goals: {journey.future_goals()}")
   
   <br>
   
-  <!-- Working Footer Wave -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+  <!-- Clean Footer End -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
 </div>
 
