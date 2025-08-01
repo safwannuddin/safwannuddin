@@ -20,9 +20,8 @@
   
 </div>
 
-<!-- Floating Profile Section -->
+<!-- Cool Profile Section -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" height="300"/>
   
   <h2>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -31,19 +30,26 @@
   </h2>
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Transforming+Ideas+into+Digital+Reality;Building+the+Future+with+AI+%26+Code;Where+Innovation+Meets+Implementation;Crafting+Solutions+That+Matter" alt="Subtitle" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Transforming+Ideas+into+Digital+Reality;Building+the+Future+with+AI+%26+Code;Where+Innovation+Meets+Implementation;Crafting+Solutions+That+Matter" alt="Subtitle" />
   </p>
+  
+  <!-- Cool Matrix Style Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%">
+  
 </div>
 
-<!-- Animated About Section -->
+<!-- About Section -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
   
   <h2>
-    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">
     &nbsp;About The Developer&nbsp;
-    <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px">
   </h2>
+  
+  <!-- Cool Neon Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
+  
 </div>
 
 ```javascript
@@ -85,15 +91,18 @@ console.log("Current Status:", safwan.getCurrentStatus());
 console.log("Skill Levels:", safwan.getSkillLevel());
 ```
 
-<!-- Animated Skills Section -->
+<!-- Skills Section -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="900">
   
   <h2>
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" />
     &nbsp;Tech Arsenal&nbsp;
     <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" />
   </h2>
+  
+  <!-- Epic Fire Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="85%">
+  
 </div>
 
 <!-- Tech Stack with Cool Styling -->
@@ -167,15 +176,18 @@ console.log("Skill Levels:", safwan.getSkillLevel());
   
 </div>
 
-<!-- Epic GitHub Stats Section -->
+<!-- GitHub Stats Section -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
   
   <h2>
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
     &nbsp;GitHub Analytics&nbsp;
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="50px">
   </h2>
+  
+  <!-- Lightning Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="90%">
+  
 </div>
 
 <!-- GitHub Stats Cards with Animations -->
@@ -194,7 +206,7 @@ console.log("Skill Levels:", safwan.getSkillLevel());
   <img src="https://github-profile-trophy.vercel.app/?username=safwannuddin&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 </div>
 
-<!-- Coding Activity -->
+<!-- Coding Journey -->
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50px">
@@ -202,7 +214,9 @@ console.log("Skill Levels:", safwan.getSkillLevel());
     <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50px">
   </h2>
   
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="900">
+  <!-- Cool Code Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="85%">
+  
 </div>
 
 ```python
@@ -263,9 +277,8 @@ print(f"📊 Current Stats: {journey.get_stats()}")
 print(f"🎯 Future Goals: {journey.future_goals()}")
 ```
 
-<!-- Connect Section with Animations -->
+<!-- Connect Section -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900">
   
   <h2>
     <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="50px">
@@ -274,8 +287,12 @@ print(f"🎯 Future Goals: {journey.future_goals()}")
   </h2>
   
   <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Ready+to+build+something+amazing%3F;Let's+turn+ideas+into+reality!;Open+for+collaborations+%26+opportunities" alt="Connect" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=700&lines=Ready+to+build+something+amazing%3F;Let's+turn+ideas+into+reality!;Open+for+collaborations+%26+opportunities" alt="Connect" />
   </p>
+  
+  <!-- Connection Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
+  
 </div>
 
 <!-- Social Links with Hover Effects -->
@@ -301,16 +318,20 @@ print(f"🎯 Future Goals: {journey.future_goals()}")
   <img src="https://img.shields.io/github/followers/safwannuddin?style=for-the-badge&color=F8D866&labelColor=0D1117" alt="Followers" />
 </div>
 
-<!-- Footer with Animation -->
+<!-- Footer Section -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284126-944e5e8c-8b78-4681-9e87-7b1d2e19e9d9.gif" width="900">
+  
+  <br><br>
   
   <h3>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+digital+space!+🚀;Let's+build+the+future+together!+💫;Keep+coding%2C+keep+innovating!+⚡" alt="Footer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+my+digital+space!+🚀;Let's+build+the+future+together!+💫;Keep+coding%2C+keep+innovating!+⚡" alt="Footer" />
   </h3>
   
-  <!-- Animated Footer -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+  <br>
+  
+  <!-- Working Footer Wave -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer"/>
+  
 </div>
 
 <!-- Hidden ASCII Art -->
