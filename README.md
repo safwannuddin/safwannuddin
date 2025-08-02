@@ -18,7 +18,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=900&height=100&lines=🚀+FULL+STACK+DEVELOPER;🤖+AI%2FML+ENGINEER;⚡+DATA+SCIENTIST;🔥+INNOVATION+ARCHITECT" alt="Roles" />
   
   <!-- Animated Divider -->
-  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
 </div>
 
@@ -60,7 +60,7 @@ class Developer {
         this.name = "Mohd Safwan Uddin";
         this.role = "Full Stack Developer & AI Engineer";
         this.location = "India 🇮🇳";
-        this.education = "B.E Computer Science";
+        this.education = "B.Tech in Computer Science";
         this.workingOn = "Revolutionary AI Applications";
         this.currentlyLearning = "Advanced Machine Learning & Cloud Architecture";
         this.collaborateOn = "Open Source Projects & AI Innovations";
@@ -85,7 +85,14 @@ class Developer {
         };
     }
     
-
+    getSkillLevel() {
+        return {
+            frontend: "Expert 🎯",
+            backend: "Advanced 🔥",
+            aiml: "Proficient 🧠",
+            problemSolving: "Ninja Level 🥷"
+        };
+    }
 }
 
 const safwan = new Developer();
@@ -237,7 +244,7 @@ class CodingJourney:
         self.daily_routine = {
             "06:00": "☕ Coffee + Planning the day",
             "09:00": "💻 Core Development Work",
-            "14:00": "� Codeo Review & Problem Solving",
+            "14:00": "🔍 Code Review & Problem Solving",
             "18:00": "📚 Learning New Technologies",
             "21:00": "🚀 Personal Projects & Innovation",
             "23:00": "📝 Documentation & Reflection"
