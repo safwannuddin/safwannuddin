@@ -85,13 +85,7 @@ class Developer {
         };
     }
     
-    getSkillLevel() {
-        return {
-            frontend: "Expert 🎯",
-            backend: "Advanced 🔥",
-            aiml: "Proficient 🧠",
-            problemSolving: "Ninja Level 🥷"
-        };
+    
     }
 }
 
