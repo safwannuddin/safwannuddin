@@ -60,7 +60,7 @@ class Developer {
         this.name = "Mohd Safwan Uddin";
         this.role = "Full Stack Developer & AI Engineer";
         this.location = "India 🇮🇳";
-        this.education = "B.Tech in Computer Science";
+        this.education = "B.E in Computer Science";
         this.workingOn = "Revolutionary AI Applications";
         this.currentlyLearning = "Advanced Machine Learning & Cloud Architecture";
         this.collaborateOn = "Open Source Projects & AI Innovations";
