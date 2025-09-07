@@ -54,46 +54,6 @@
   
 </div>
 
-```javascript
-class Developer {
-    constructor() {
-        this.name = "Mohd Safwan Uddin";
-        this.role = "Full Stack Developer & AI Engineer";
-        this.location = "India 🇮🇳";
-        this.education = "B.Tech in Computer Science";
-        this.workingOn = "Revolutionary AI Applications";
-        this.currentlyLearning = "Advanced Machine Learning & Cloud Architecture";
-        this.collaborateOn = "Open Source Projects & AI Innovations";
-        this.askMeAbout = [
-            "React & Next.js", 
-            "Python & FastAPI", 
-            "AI/ML & Data Science", 
-            "Cloud Computing"
-        ];
-        this.funFact = "I enjoy solving puzzles and learning new algorithms!";
-        this.motto = "Code with passion, innovate with purpose! 🚀";
-    }
-    
-    getCurrentStatus() {
-        return {
-            coding: "24/7 ⚡",
-            learning: "Always 📚",
-            building: "The Future 🚀",
-            mood: "Optimistic & Ready to Code! 💪",
-            coffee: "Essential fuel ☕",
-            nextGoal: "Building AI that changes lives 🤖"
-        };
-    }
-    
-    
-    }
-}
-
-const safwan = new Developer();
-console.log("Current Status:", safwan.getCurrentStatus());
-console.log("Skill Levels:", safwan.getSkillLevel());
-```
-
 <!-- Skills Section -->
 <div align="center">
   
