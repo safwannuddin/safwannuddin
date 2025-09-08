@@ -11,11 +11,12 @@
   
   <!-- Epic Header -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=45&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=80&lines=MOHD+SAFWAN+UDDIN" alt="Name" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=45&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=900&height=80&lines=MOHD+SAFWAN+UDDIN" alt="Name" />
   </h1>
-  
-  <!-- Role Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&multiline=true&width=900&height=100&lines=🚀+FULL+STACK+DEVELOPER;🤖+AI%2FML+ENGINEER;⚡+DATA+SCIENTIST;🔥+INNOVATION+ARCHITECT" alt="Roles" />
+
+  <h2>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&height=80&lines=�+Welcome+to+My+Digital+Universe+�" alt="Welcome Message" />
+  </h2>
   
   <!-- Animated Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
