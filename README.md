@@ -26,11 +26,6 @@
 <!-- Cool Profile Section -->
 <div align="center">
   
-  <h2>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-    Welcome to My Digital Universe
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  </h2>
   
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=Transforming+Ideas+into+Digital+Reality;Building+the+Future+with+AI+%26+Code;Where+Innovation+Meets+Implementation;Crafting+Solutions+That+Matter" alt="Subtitle" />
